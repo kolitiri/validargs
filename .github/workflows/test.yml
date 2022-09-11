@@ -1,6 +1,11 @@
-name: test
+name: Test
 
-on: pull_request
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, synchronize]
 
 jobs:
   testing:
@@ -74,4 +79,3 @@ jobs:
         run: |
           source .venv/bin/activate
           pytest tests/
-          coverage report

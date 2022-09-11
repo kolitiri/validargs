@@ -1,4 +1,4 @@
-name: test
+name: Manual Test
 
 on: workflow_dispatch
 
@@ -74,4 +74,3 @@ jobs:
         run: |
           source .venv/bin/activate
           pytest tests/
-          coverage report
