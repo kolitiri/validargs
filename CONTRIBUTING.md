@@ -7,7 +7,7 @@ If you would like to contribute to the package please follow the instructions be
 poetry install
 ```
 3. Make your changes to the code
-4. Add any tets if necessary
+4. Add any tests if necessary
 5. When you are done, run all the tests with pytest
 ```bash
 poetry run pytest tests/
