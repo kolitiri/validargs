@@ -1,3 +1,15 @@
+<p align="center">
+    <a href="https://github.com/kolitiri/validargs/actions/workflows/test.yml" target="_blank">
+        <img src="https://github.com/kolitiri/validargs/actions/workflows/test.yml/badge.svg" alt="Test">
+    </a>
+    <a href="https://pypi.org/project/validargs" target="_blank">
+        <img src="https://img.shields.io/pypi/v/validargs?color=%2334D058&label=pypi" alt="Package version">
+    </a>
+    <a href="https://pypi.org/project/validargs" target="_blank">
+        <img src="https://img.shields.io/pypi/pyversions/validargs.svg?color=%2334D058" alt="Supported Python versions">
+    </a>
+</p>
+
 # Validargs
 
 1. [Description](#description)

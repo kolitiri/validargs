@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "validargs"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+description = "Custom argument validation, injected directly in the function signature."
 authors = ["christos.liontos <christos.liontos.pr@gmail.com>"]
 license = "MIT"
 readme = "README.md"
