@@ -31,7 +31,7 @@ NOTE: [pydantic](https://pydantic-docs.helpmanual.io/) is a far more advanced an
 
 **Source Code**: https://github.com/kolitiri/validargs
 
-**PyPI**: https://pypi.org/project/contextlogger/
+**PyPI**: https://pypi.org/project/validargs/
 
 # Requirements <a name="requirements"></a>
 Python 3.8+
